@@ -20,4 +20,5 @@ QA Engineer passionate about delivering quality fintech applications through man
 
 ## Connect with Me
 Portfolio: https://mercyabednego.lovable.app/
+
 LinkedIn: http://www.linkedin.com/in/mercy-abednego-4409b8318
