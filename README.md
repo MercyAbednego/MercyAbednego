@@ -19,4 +19,5 @@ QA Engineer passionate about delivering quality fintech applications through man
 - Playwright Automation
 
 ## Connect with Me
+Portfolio: https://mercyabednego.lovable.app/
 LinkedIn: http://www.linkedin.com/in/mercy-abednego-4409b8318
